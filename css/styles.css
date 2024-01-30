@@ -557,6 +557,7 @@ img {
     fill: #000000;
     background-color: #E7E9FC;
     border-radius: 50%;
+    margin: 24px 24px 24px 360px;
 }
 
 .modal-form {
