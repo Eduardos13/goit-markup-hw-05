@@ -494,10 +494,6 @@ img {
     gap: 24px;
 }
 
-.footer-feedback-lable {
-    display: inline-flex;
-    gap: 24px;
-}
 
 .footer-feedback-email {
     width: 264px;
