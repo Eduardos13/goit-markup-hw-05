@@ -695,12 +695,11 @@ input:focus + .input-icon{
     fill: transparent; 
 }
 
-.form-privacy-checkbox:checked .form-privacy-span {
-    background-color: #404bbf;
+.form-privacy-checkbox + .form-privacy-lable .form-privacy-span {
+    background-color: #404BBF;
     border: none;
-    fill: #F4F4FD; 
-}
-
+    fill: #F4F4FD;
+  }
 
 .privacy-policy {
     color: #4d5ae5;
