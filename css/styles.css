@@ -693,6 +693,7 @@ input:focus + .input-icon{
     align-items: center;
     justify-content: center;
     fill: transparent; 
+    margin-right: 8px;
 }
 
 .form-privacy-checkbox:checked + .form-privacy-lable .form-privacy-span {
@@ -703,6 +704,7 @@ input:focus + .input-icon{
 
 .privacy-policy {
     color: #4d5ae5;
+    text-decoration: underline;
 }
 
 .form-send-button {
